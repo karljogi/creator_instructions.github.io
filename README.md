@@ -1,5 +1,3 @@
-## Monemon demo app instructions
-
 Download the app from Testflight. Testflight can be downloaded from the App Store. The phone (and Testflight) should be logged in with the same Apple ID, that you provided for the access.
 
 Always use the latest version, if not explicitly specified otherwise.
@@ -14,8 +12,7 @@ To use the Wrapped demo feature long press on the butterfly icon next to the `Wr
 
 This will open a modal, where you will see 2 tabs - `Generate` and `Previous`
 
-![Modal image 1](https://mowomedia.s3.eu-north-1.amazonaws.com/modal_1.jpeg)
-![Modal image 2](https://mowomedia.s3.eu-north-1.amazonaws.com/modal_2.jpeg)
+![Modal image 1](https://mowomedia.s3.eu-north-1.amazonaws.com/modal_1.jpeg) ![Modal image 2](https://mowomedia.s3.eu-north-1.amazonaws.com/modal_2.jpeg)
 
 On the first tab there is a text box, where you can specify a character. The more info you input about the profile and last week, the more detailed Wrapped you will receive. Play around with it a few times to get a feel for it. Once the profile text is ready, pressing `Generate` will start the Wrapped generation. This may take up to a minute, so be patient. Once the generation is ready, you may close the modal and open the wrapped by pressing the wrapped card. This will start the Wrapped slideshow, which is usually 5-7 slides long.
 
