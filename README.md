@@ -8,11 +8,13 @@ As this is a demo app, all features may not always work (cards), but the look an
 
 To use the Wrapped demo feature long press on the butterfly icon next to the `Wrapped` widget title on the Home screen. 
 
-![Home screen with wrapped widget](https://mowomedia.s3.eu-north-1.amazonaws.com/home_screen.jpeg)
+
+<img src="https://mowomedia.s3.eu-north-1.amazonaws.com/home_screen.jpeg" alt="drawing" width="200"/>
 
 This will open a modal, where you will see 2 tabs - `Generate` and `Previous`
 
-![Modal image 1](https://mowomedia.s3.eu-north-1.amazonaws.com/modal_1.jpeg) ![Modal image 2](https://mowomedia.s3.eu-north-1.amazonaws.com/modal_2.jpeg)
+<img src="https://mowomedia.s3.eu-north-1.amazonaws.com/modal_1.jpeg" alt="drawing2" width="200"/>
+<img src="https://mowomedia.s3.eu-north-1.amazonaws.com/modal_2.jpeg" alt="drawing3" width="200"/>
 
 On the first tab there is a text box, where you can specify a character. The more info you input about the profile and last week, the more detailed Wrapped you will receive. Play around with it a few times to get a feel for it. Once the profile text is ready, pressing `Generate` will start the Wrapped generation. This may take up to a minute, so be patient. Once the generation is ready, you may close the modal and open the wrapped by pressing the wrapped card. This will start the Wrapped slideshow, which is usually 5-7 slides long.
 
