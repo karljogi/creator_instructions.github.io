@@ -40,3 +40,20 @@ On the first tab there are three text boxes. The first one allows you to describ
 Above the mission widget a spending treemap will appear, showing a generated weekly category breakdown based on the mission topic. For example, a mission about dining out will show Restaurants & Accommodation as the prominent category. 
 
 On the second tab you will see the history of your previously generated Missions. Clicking on them will load them to the Mission widget.
+
+### Homescreen widget
+
+The homescreen widget is only available on iOS.
+
+To add the widget to your homescreen:
+1. Long press on the homescreen until the icons start jiggling
+2. Tap the `Edit` button in the top left corner
+3. Search for **Monemon Dev** and select it
+4. Choose either the small or medium size and tap **Add Widget**
+
+The widget displays your active weekly mission - remaining budget, mission title, progress bar, estimated savings, and days left until the end of the challenge.
+
+**What the widget shows:**
+- If you are not logged in to the app: "Open Monemon to sign in"
+- If you have an active mission: mission data
+- The widget updates automatically when you open the app or return to it from the background
